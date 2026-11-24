@@ -1,1 +1,1 @@
-print ("Welcome to jenkins Continuous intergration")
+print ("Welcome to jenkins")
